@@ -1,2 +1,2 @@
 # ComputerNetwork-Heritage
-Learn 'Bout Computer Network Protocol ~ Projects
+Learn 'Bout Computer Network Configuration ~ Projects
